@@ -1,0 +1,4 @@
+Before start using this project change the path in login_test file for screenshots.
+
+pages: It will contain locators of the pages and what ever actions we want to do on that page.
+tests: it should be named as _test.py
